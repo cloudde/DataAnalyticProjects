@@ -2,15 +2,15 @@ A command-line or GUI-based Employee Management System built with Python to effi
 
 Key Features
 
-✅ Employee CRUD Operations – Create, Read, Update, and Delete employee records.
+-- Employee CRUD Operations – Create, Read, Update, and Delete employee records.
 
-✅ Department & Role Management – Organize staff by departments and designations.
+-- Department & Role Management – Organize staff by departments and designations.
 
-✅ Attendance & Leave Tracking – Log and monitor employee attendance.
+-- Attendance & Leave Tracking – Log and monitor employee attendance.
 
-✅ Data Persistence – Stores records in a database (SQLite/MySQL) or file (CSV/JSON).
+-- Data Persistence – Stores records in a database (SQLite/MySQL) or file (CSV/JSON).
 
-✅ User-Friendly Interface – Simple CLI or Tkinter/PyQt GUI for easy interaction.
+-- User-Friendly Interface – Simple CLI or Tkinter/PyQt GUI for easy interaction.
 
 
 Tech Stack
